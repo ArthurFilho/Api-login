@@ -1,0 +1,5 @@
+{
+ "exectMap": {
+  "js" : "sucrase-node"
+ }
+}
